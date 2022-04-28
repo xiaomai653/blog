@@ -1,7 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c7e6d17-282c-4f8a-a899-65a622dfc0dc" name="Default" comment="" />
+    <list default="true" id="1c7e6d17-282c-4f8a-a899-65a622dfc0dc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03de74e8298c08afd372383630c2c2f10f133fd6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09119da61a40b7cd79e98e802577aff0e39f4b0c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0ce9fa96ea92940bb7e652758889f78d405c5b17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f892eaad0d487714ef6c04a6bb9622c9a4356d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f9f000afd87d65b7a36a6b9bec8951819253726" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/272f44c8ece988e2537e771a4adbee2586ab0a4f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2828db94a373a1ea7c7c2244987f9e9564dfbf9d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f2a7757cda90e0928e98d962ab500e2d92684df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/3248d58d22aadf71754bf3a5a08385ad115955d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d36e22df0becade91334ebf5419076aadce08fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dfc29fecd9a49be1ace0fa7cca841f67c286c3a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e82a49ce2908b9e729aa7a780fdcc7f2abb82a9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4268d969f8ed77a77b2ae7b78d07062979de3d7b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47a92dbb0fc08852aaa56720f016a0526d02bb06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49eed7ffdd135029ead5e726aae76b35b4726ae2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5bb514a8a4360790b362af951f96c399952883ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/619181761e145f06616e05d5ad1a33925b56a792" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d42a65970069e2b65645023435a2c2b427038a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f419e45d2be2b18ade8df86f7890d0fce0e1d12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/7769a44b0373f6c5d3f448196caa16356ab6c272" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/791daef8977b046702309ce2e91478544bf957bf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cfd9af5d0dd8cbe07033062a973c25fda389556" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/8542736f889cfda5791241e1f1b63384cf087797" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87957e129859fdb6269bbaaf2de5deb20ec549d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/899ce9c202bf7bb5480e72836c3edc773c9c4244" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c030d13420fcf828fe720e655cb711d1dc0fda4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f258113df5f96a2032ab5972aa735b20c0d62fd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92c3f22fa84fa85bd919589ffab069d9471a203d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f7cbce127b94a94ee14460050fbff2ce58417d0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f91f9e918ebea2dfdcd51d1baa563583d129657" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a410f2683aac15fdee067e1c8f726d2868b6d94b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/aba5b2a7879227157291264696f4b301986538a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adffdf79a695c6b338c119dc2136ede3fe3b5106" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0c93df5c39c015a65eaf2843ecf0e4996b72951" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b566f0d832573ed028654375a5837a2f5a5168ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be344644d2c17dd67ba888bd69c8c272e0027df0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be94fd40f0c4b440044c3f852e44fd2a75f7b3cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2f668222ade12b3eb603af02abd448217fef354" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5595c06de1cc5e4894f648967801eba4452632a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8472859b58af37cf84a70f20df934efc85f3c6f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd47e31a8addc864eb77388b0bf15b42ec7c0cb7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdfc4798454488ebc30f493c33396201bf512f04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df825f362817f35cc102aeb4a317fc34de9f63f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e107d6aeae50b3a55984417fd8e4dd2a9735a5f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e310dc6a367d0ad95710596b85509cba49658f20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6fbbb4789d4dfb89cf0c90a59cf220f789971b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6f9e37bd66734f1b44dbdd0b9e007825e24b161" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa288d1472d29beccb489a676f68739ad365fc47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fae545f12337229dc63997dc5c34887ff2751506" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/file/dockerInstall.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/file/zksc-install-docker.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/author-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/bannerBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/exception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/head-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/home-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/home-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/home-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/java-collection-one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/java-collections.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/java-concurrent-overview-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/类型转换.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/01.centos7常用配置/02.Centos7配置静态网络.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/01.centos7常用配置/04.Centos7配置定时任务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/03.centos7安装服务/01.Centos7安装Docker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/01.基础知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/03.数据类型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/05.面向对象.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/07.异常处理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/03.集合/01.Java集合.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/09.并发/01.Java并发知识体系.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/09.并发/03.Java线程基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/06.SpringBoot整合ElasticSearch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/07.SpringBoot整合SpringSecurity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/20.设计模式/01.Java设计模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/00.目录页/01.docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/00.目录页/01.centos7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/00.目录页/02.常用命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/00.目录页/02.常用命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/00.目录页/03.Java实战.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/00.目录页/03.Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/01.Docker安装Nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/01.Docker安装Nginx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/02.Docker安装MySQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/02.Docker安装MySQL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/03.Docker安装Tomcat.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/03.Docker安装Tomcat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/04.Docker安装Gitlab.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/04.Docker安装Gitlab.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/05.Docker安装Ftp.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/05.Docker安装Ftp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/06.Docker安装Trojan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/06.Docker安装Trojan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/07.Docker安装V2ray.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/07.Docker安装V2ray.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/08.Docker安装Frp.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/08.Docker安装Frp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/09.Docker安装Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/09.Docker安装Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/10.Docker安装Nacos.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/10.Docker安装Nacos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/11.Docker安装Rabbitmq.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/11.Docker安装Rabbitmq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/12.Docker安装Elasticsearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/12.Docker安装Elasticsearch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/13.Docker安装Logstash.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/13.Docker安装Logstash.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/01.docker/14.Docker安装Kibana.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/14.Docker安装Kibana.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/03.Java实战/01.SpringBoot整合MybatisPlus.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/01.SpringBoot整合MybatisPlus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/03.Java实战/02.SpringBoot整合SwaggerUI.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/02.SpringBoot整合SwaggerUI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/03.Java实战/03.SpringBoot整合SpringTask.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/03.SpringBoot整合SpringTask.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/03.Java实战/04.SpringBoot整合Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/04.SpringBoot整合Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/学习资料/03.Java实战/05.SpringBoot整合RabbitMQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/05.SpringBoot整合RabbitMQ.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,52 +121,63 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="01.docker.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/00.目录页/01.docker.md">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="280">
-                <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <first_editor relative-caret-position="20">
+                <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1245">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+      <file leaf-file-name="01.基础知识.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/01.基础知识.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deploy.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+      <file leaf-file-name="01.centos7.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/00.目录页/01.centos7.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -63,8 +186,68 @@
         <entry file="file://$PROJECT_DIR$/docs/00.目录页/02.常用命令.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <first_editor relative-caret-position="140">
+                <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.Java.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/00.目录页/03.Java.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="160">
+                <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.Docker常用命令.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/01.Docker常用命令.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2880">
+                <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.Java并发知识体系.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/09.并发/01.Java并发知识体系.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="246">
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.Java线程基础.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/09.并发/03.Java线程基础.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="337">
+                <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.数据类型.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/03.数据类型.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-480">
+                <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -77,39 +260,72 @@
     <findStrings>
       <find>Vdoing</find>
       <find>base</find>
+      <find>url</find>
+      <find>AuthenticationProvider</find>
+      <find>SysUserDetailsService</find>
+      <find>UserAuthenticationProvider</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/.vuepress/config.yml" />
-        <option value="$PROJECT_DIR$/docs/guide/READE.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/01.笔记/01.Tomcat最佳实践.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/01.Docker常用命令.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/03.Linux常用命令.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/04.MySQL常用命令.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/05.Nginx常用命令.md" />
-        <option value="$PROJECT_DIR$/docs/02.页面/01.HTML/01.常用meta整理.md" />
-        <option value="$PROJECT_DIR$/docs/01.目录页/01.前端.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/02.Git常用命令.md" />
-        <option value="$PROJECT_DIR$/docs/README.md" />
-        <option value="$PROJECT_DIR$/docs/00.目录页/01.docker.md" />
-        <option value="$PROJECT_DIR$/docs/00.目录页/02.常用命令.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/02.Springboot整合Swagger-UI.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/01.Springboot整合MybatisPlus.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/02.SpringBoot整合Swagger-UI.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/05.SpringBoot整合RabbitMq.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/02.SpringBoot整合SwaggerUI.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/01.SpringBoot整合MybatisPlus.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/03.SpringBoot整合SpringTask.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/04.SpringBoot整合Redis.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/05.SpringBoot整合RabbitMQ.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/06.SpringBoot整合ElasticSearch.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/05.设计模式/01.Java设计模式.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/07.SpringBoot整合SpringSecurity.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java实战/01.Java基础/03.数据类型.md" />
         <option value="$PROJECT_DIR$/docs/00.目录页/03.Java实战.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/07.XX命令.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/08.XX命令.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/09.XX命令.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/10.XX命令.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/11.XX命令.md" />
-        <option value="$PROJECT_DIR$/docs/学习资料/02.常用命令/06.XX命令.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/styles/palette.styl" />
-        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/05.面向对象.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/01.基础知识.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/01.centos7常用配置/04.Centos7配置定时任务.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/01.centos7常用配置/02.Centos7配置静态网络.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/07.异常处理.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/03.集合/01.Java集合.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/03.数据类型.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/01.SpringBoot整合MybatisPlus.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/03.SpringBoot整合SpringTask.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/02.SpringBoot整合SwaggerUI.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/04.SpringBoot整合Redis.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/05.SpringBoot整合RabbitMQ.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/06.SpringBoot整合ElasticSearch.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/07.SpringBoot整合SpringSecurity.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/01.Docker安装Nginx.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/02.Docker安装MySQL.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/03.Docker安装Tomcat.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/04.Docker安装Gitlab.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/05.Docker安装Ftp.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/06.Docker安装Trojan.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/07.Docker安装V2ray.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/08.Docker安装Frp.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/09.Docker安装Redis.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/10.Docker安装Nacos.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/11.Docker安装Rabbitmq.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/12.Docker安装Elasticsearch.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/13.Docker安装Logstash.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/14.Docker安装Kibana.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/01.centos7/03.centos7安装服务/01.Centos7安装Docker.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/09.并发/01.Java并发知识体系.md" />
+        <option value="$PROJECT_DIR$/docs/学习资料/03.Java/09.并发/03.Java线程基础.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
-        <option value="$PROJECT_DIR$/deploy.sh" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/docs/00.目录页/03.Java.md" />
+        <option value="$PROJECT_DIR$/docs/00.目录页/01.centos7.md" />
+        <option value="$PROJECT_DIR$/docs/00.目录页/02.常用命令.md" />
+        <option value="$PROJECT_DIR$/docs/README.md" />
       </list>
     </option>
   </component>
@@ -127,17 +343,21 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="180" />
-    <option name="y" value="297" />
-    <option name="width" value="1333" />
-    <option name="height" value="817" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="157" />
+    <option name="y" value="159" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -146,33 +366,48 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="学习资料" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java Project\blog\docs\学习资料\01.centos7\01.centos7常用配置" />
+      <recent name="D:\Java Project\blog\docs\学习资料\01.centos7\03.centos安装服务" />
+      <recent name="D:\Java Project\blog\docs\学习资料\01.centos7\05.docker安装服务" />
+      <recent name="D:\Java Project\blog\docs\学习资料\03.Java实战\18.SpringBoot实战" />
       <recent name="D:\Java Project\blog" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java Project\blog\docs\学习资料\02.常用命令" />
+      <recent name="D:\Java Project\blog\docs\.vuepress\public\file" />
       <recent name="D:\Java Project\blog\docs\.vuepress\public\images" />
+      <recent name="D:\Java Project\blog\docs\学习资料\01.docker" />
+      <recent name="D:\Java Project\blog\docs\学习资料\02.常用命令" />
       <recent name="D:\Java Project\blog\docs\.vuepress" />
-      <recent name="D:\Java Project\blog\docs\.vuepress\images" />
-      <recent name="D:\Java Project\blog\docs\.vuepress\assets\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,53 +484,96 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642401431214</updated>
-      <workItem from="1642401434892" duration="46540000" />
+      <workItem from="1642401434892" duration="53501000" />
+      <workItem from="1644203055027" duration="34123000" />
+      <workItem from="1644648302847" duration="4170000" />
+      <workItem from="1646294313835" duration="30970000" />
+      <workItem from="1646875694103" duration="19080000" />
+      <workItem from="1649381863051" duration="51015000" />
+      <workItem from="1649899527095" duration="18940000" />
+      <workItem from="1650511794361" duration="754000" />
+      <workItem from="1650612761844" duration="18835000" />
     </task>
+    <task id="LOCAL-00001" summary="标签统一小写">
+      <created>1644309995205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644309995206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改自动部署">
+      <created>1644378277830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644378277830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加自动部署yml">
+      <created>1644378620906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644378620906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加docker安装服务笔记">
+      <created>1644387290364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644387290364</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加springboot实战笔记">
+      <created>1646731716573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646731716573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46540000" />
+    <option name="totallyTimeSpent" value="231388000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="RestServices" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="right" id="Word Book" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="bottom" id="Sequence Diagram" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.29372936" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="7" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.29152915" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Codota" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2978022" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Codota" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.29922992" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.40264025" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20682302" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,70 +582,70 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="标签统一小写" />
+    <MESSAGE value="修改自动部署" />
+    <MESSAGE value="添加自动部署yml" />
+    <MESSAGE value="添加docker安装服务笔记" />
+    <MESSAGE value="添加springboot实战笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加springboot实战笔记" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/images/hero.png">
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/images/java.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/guide/READE.md">
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/20.设计模式/01.Java设计模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/guide/READE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <first_editor relative-caret-position="180">
+            <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/config.md">
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/02.Git常用命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-220">
+            <caret line="10" column="7" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="7" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/images/docker.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/enhanceApp.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/images/image-20211008100314138.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/@pages/archivesPage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/images/命令.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/images/bannerBg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/images/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/palette.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/@pages/categoriesPage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/images/bg1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/@pages/tagsPage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/.github/workflows/ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -375,7 +653,280 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="160">
-            <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/05.面向对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="3040">
+            <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/07.异常处理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1800">
+            <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/03.集合/01.Java集合.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/01.SpringBoot整合MybatisPlus.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/02.SpringBoot整合SwaggerUI.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/03.SpringBoot整合SpringTask.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/04.SpringBoot整合Redis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/05.SpringBoot整合RabbitMQ.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/06.SpringBoot整合ElasticSearch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/18.SpringBoot实战/07.SpringBoot整合SpringSecurity.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/01.centos7常用配置/02.Centos7配置静态网络.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/01.centos7常用配置/04.Centos7配置定时任务.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="160">
+            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/01.Docker安装Nginx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/02.Docker安装MySQL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/03.Docker安装Tomcat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/04.Docker安装Gitlab.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/05.Docker安装Ftp.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/06.Docker安装Trojan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/07.Docker安装V2ray.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/08.Docker安装Frp.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/09.Docker安装Redis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/10.Docker安装Nacos.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/11.Docker安装Rabbitmq.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/12.Docker安装Elasticsearch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/13.Docker安装Logstash.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/file/dockerInstall.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/05.docker安装服务/14.Docker安装Kibana.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/01.centos7/03.centos7安装服务/01.Centos7安装Docker.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1940">
+            <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
           </first_editor>
           <second_editor />
         </state>
@@ -384,44 +935,51 @@
     <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/01.Docker常用命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <first_editor relative-caret-position="2880">
+            <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/03.Linux常用命令.md">
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/03.数据类型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <first_editor relative-caret-position="-480">
+            <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/04.MySQL常用命令.md">
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/09.并发/01.Java并发知识体系.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <first_editor relative-caret-position="246">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/05.Nginx常用命令.md">
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/09.并发/03.Java线程基础.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <first_editor relative-caret-position="337">
+            <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02.页面/01.HTML/01.常用meta整理.md">
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/学习资料/03.Java/01.Java基础/01.基础知识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
@@ -431,31 +989,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/02.Git常用命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="320">
-            <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="320">
-            <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00.目录页/03.Java实战.md">
+    <entry file="file://$PROJECT_DIR$/docs/00.目录页/01.centos7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -464,123 +1002,30 @@
     <entry file="file://$PROJECT_DIR$/docs/00.目录页/02.常用命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <first_editor relative-caret-position="140">
+            <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00.目录页/01.docker.md">
+    <entry file="file://$PROJECT_DIR$/docs/00.目录页/03.Java.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="280">
-            <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <first_editor relative-caret-position="160">
+            <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/07.XX命令.md">
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <first_editor relative-caret-position="20">
+            <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/08.XX命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/09.XX命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/10.XX命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/11.XX命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/vuepress-plugin-one-click-copy/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/学习资料/02.常用命令/06.XX命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/palette.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1245">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>

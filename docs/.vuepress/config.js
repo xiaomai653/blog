@@ -1,12 +1,19 @@
 
 module.exports = {
   title: '冲！冲！冲！',
-  description: 'Just playing around',
+  description: 'GO! GO! GO!',
   // base: '/blog/',
+  head: [
+    ['link', { rel: 'icon', href: '/images/head-logo.jpg' }]
+  ],
   theme: 'vdoing',
+  // markdown: {
+  //   extractHeaders: [ 'h2', 'h3', 'h4', 'h5', 'h6' ]  // 右侧目录栏
+  // },
   themeConfig: {
-    logo: '/images/logo.png',   // logo
-    // bodyBgImg: '/images/bg.jpg',
+    logo: '/images/logo.jpg',   // logo
+    bodyBgImg: '/images/bg.jpg',
+    bodyBgImgOpacity: 0.7,
     sidebar: 'structuring',     // 自动生成侧边栏
     sidebarDepth: 2,  // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     category: true,   // 分类
@@ -21,13 +28,33 @@ module.exports = {
     author: {
       name: 'xiaomai', // 必需
     },
+    // 博主信息
+    blogger: {
+      avatar: '/images/author.jpg',
+      name: '小麦',
+      slogan: '不积硅步，无以至千里。'
+    },
+    // 社交图标
+    // social: {
+    //   icons: [
+    //     {
+    //       iconClass: 'icon-github',
+    //       title: 'github',
+    //       link: 'https://github.com/xiaomai653'
+    //     },
+    //     {
+    //       iconClass: 'icon-gitee',
+    //       title: 'gitee',
+    //       link: 'https://gitee.com/xiaomai653'
+    //     }
+    // ]},
     // 导航配置
     nav: [
       { text: '首页', link: '/' },
       // 没有二级导航时可以直接添加
-      {text: 'docker', link: '/docker/'},
+      {text: 'centos7', link: '/centos7/'},
       {text: '常用命令', link: '/command/'},
-      {text: 'Java实战', link: '/java/'},
+      {text: 'Java', link: '/java/'},
       // 有二级导航时
       // {
       //   text: '索引',

@@ -1,21 +1,24 @@
 ---
 home: true
-# heroImage: /images/logo.png
-heroText: Xiaomai's blog
+heroImage: /images/home.jpg
+heroText: 好好学习，天天向上
 tagline: 没有捷径，需要日积月累的积累，以及对技术持久的热情
+#bannerBg: /images/bannerBg.png
+bannerBg: none
 #actionText: 快速上手 →
+#actionLink: /pages/07cc6a/
 features:
-- title: Docker容器
-  details: 服务部署，一键搞定。就是这么牛！
-  imgUrl: /images/docker.jpg
-  link: /docker
+- title: centos7
+  details: 环境配置好，开发事才少。
+  imgUrl: /images/home-1.jpg
+  link: /centos7
 - title: 常用命令
   details: 勿忘！勿忘！勿忘！重要的事情说三遍。
-  imgUrl: /images/命令.jpg
+  imgUrl: /images/home-2.jpg
   link: /command
-- title: Java实战
-  details: 真刀实枪的干，用过了才是真的学到了。
-  imgUrl: /images/java.jpg
+- title: Java
+  details: 入门到入土，只要学不死，就往死里学。
+  imgUrl: /images/home-3.jpg
   link: /java
 footer: MIT Licensed | Copyright © 2018-present Evan You
 #postList: simple
